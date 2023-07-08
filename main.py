@@ -36,5 +36,20 @@
 #     print("AM")
 # else:
 #     print("Incorrect hours!")
-
+# print("sdfasdfassdf")
+###############
+# ввести рейтинг фільму: якщо рейтинг дорівнює 5 або 4 - ок, інакше - погано
+#
+# film_rating = int(input("Enter film rating: "))
+#
+# if 0 < film_rating <= 5:
+#     if film_rating == 4 or film_rating == 5:
+#         print("OK")
+#     else:
+#         print("Not OK")
+# else:
+#     print("Invalid film rating")
+#
+# print("Hello world")
+##########
 
