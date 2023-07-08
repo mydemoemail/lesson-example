@@ -88,4 +88,18 @@ print(f"n1: {n1} n2: {n2} n3: {n3}")
 #
 # print()
 
+# - вивести кiлькiсть однакових чисел
+if n1 == n2 == n3:
+    print(3)
+elif n1 == n2 or n2 == n3 or n1 == n3:
+    print(2)
+else:
+    print(0)
 
+# v2
+if n1 == n2 and n2 == n3 and n1 == n3:
+    print(3)
+elif n1 == n2 or n2 == n3 or n1 == n3:
+    print(2)
+else:
+    print(0)
