@@ -14,12 +14,27 @@
 # print(n1 == n2)  # поверне True якщо обидва операнди рівні (однакові)
 # print(n1 != n2)  # поверне True якщо обидва операнди різні
 
-# print(1 == 1 and 3 == 3)  # поверне True якщо обидва операнди рівні True, інакше False
-# print(1 == 10 or 2 == 3)  # поверне True якщо хоча б один операнд дорівнює True, інакше False
+# print(1 == 1 and 3 == 3) # поверне True якщо обидва операнди рівні True, інакше False
+# print(1 == 10 or 2 == 3) # поверне True якщо хоча б один операнд дорівнює True, інакше False
 # #
 # is_valid = False
 # print(is_valid)
 # print(not is_valid)  # not -> інверсія, якщо значення False стане True, і навпаки
 # #
 # print("hello" in "hello world")
+
+#########
+# CTRL + ALT + L
+
+################
+# hours = int(input("Enter hours: "))
+#
+# if 12 <= hours < 24:
+#     print("PM")
+#     print("hello")
+# elif hours >= 0 and hours < 12:
+#     print("AM")
+# else:
+#     print("Incorrect hours!")
+
 
