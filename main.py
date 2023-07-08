@@ -53,3 +53,21 @@
 # print("Hello world")
 ##########
 
+# 1. create develop branch from master branch
+# 2. create feature branch from develop branch
+# 3.
+
+# ci/cd
+
+###
+# ввести з клавіатури 3 числа
+# - вивести найменше із трьох чисел
+# - вивести кiлькiсть однакових чисел
+
+n1 = int(input("Enter first number: "))
+n2 = int(input("Enter second number: "))
+n3 = int(input("Enter third number: "))
+
+print(n1)
+print(n2)
+print(n3)
