@@ -8,6 +8,7 @@
 # v2
 # n1, n2 = 10, 20  # множинне привласнення
 # print(n1 > n2)
+print("world")
 # print(n1 >= n2)
 # print(n1 < n2)
 # print(n1 <= n2)
