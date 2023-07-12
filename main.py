@@ -8,7 +8,7 @@
 # v2
 # n1, n2 = 10, 20  # множинне привласнення
 # print(n1 > n2)
-print("Hello world")
+# print("Hello world")
 # print(n1 >= n2)
 # print(n1 < n2)
 # print(n1 <= n2)
@@ -80,4 +80,6 @@ print(f"n1: {n1} n2: {n2} n3: {n3}")
 #     print(n3)
 
 #
+print("Hello")
+
 print("Hello")
