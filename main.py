@@ -80,5 +80,6 @@ print(f"n1: {n1} n2: {n2} n3: {n3}")
 #     print(n3)
 
 #
-
-print("text 1")
+print("Hello")
+print("text 1 and text 2")
+print("Hello")
