@@ -65,11 +65,11 @@
 # - вивести найменше із трьох чисел
 # - вивести кiлькiсть однакових чисел
 
-n1 = int(input("Enter first number: "))
-n2 = int(input("Enter second number: "))
-n3 = int(input("Enter third number: "))
-
-print(f"n1: {n1} n2: {n2} n3: {n3}")
+# n1 = int(input("Enter first number: "))
+# n2 = int(input("Enter second number: "))
+# n3 = int(input("Enter third number: "))
+#
+# print(f"n1: {n1} n2: {n2} n3: {n3}")
 
 # - вивести найменше із трьох чисел
 # if n1 <= n2 <= n3:  # n1 <= n2 and n1 <= n3
@@ -80,6 +80,8 @@ print(f"n1: {n1} n2: {n2} n3: {n3}")
 #     print(n3)
 
 #
-print("Hello")
-print("text 1 and text 2")
-print("Hello")
+# print("Hello")
+# print("text 1 and text 2")
+# print("Hello")
+
+
